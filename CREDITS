@@ -1,0 +1,33 @@
+Comet is based on solanum & Charybdis, which was based on ircd-ratbox.
+
+The comet team:
+
+SnowFields, Craig Saunders <craig@snowfields.me>
+Society, Charlotte Western <society@vibetalk.net>
+
+Development for solanum is led by a group of representatives from Libera Chat
+and OFTC:
+
+amdj, Aaron Jones <amdj@libera.chat>
+dwfreed, Doug Freed <dwfreed@mtu.edu>
+ilbelkyr, Nicole Kleinhoff <ilbelkyr@libera.chat>
+mcintosh, Richie McIntosh <richiemcintosh@gmail.com>
+Myon, Christoph Berg <myon@oftc.net>
+spb, Stephen Bennet <spb@libera.chat>
+tomaw, Tom Wesley <tom@tomaw.net>
+
+The Charybdis team was:
+
+amdj, Aaron Jones <aaronmdjones -at- gmail.com>
+Ariadne, Ariadne Conill <ariadne -at- dereferenced.org>
+Elizafox, Elizabeth Myers <elizabeth -at- interlinked.me>
+jdhore, JD Horelick <jdhore1 -at- gmail.com>
+jilles, Jilles Tjoelker <jilles -at- stack.nl>
+mr_flea, Keith Buck <mr_flea -at- esper.net>
+viatsko, Valerii Iatsko <dwr -at- codingbox.io>
+
+A full list of contributors to Charybdis and its predecessors
+is in doc/credits-past.txt.
+
+Visit the Comet website at: https://www.vibetalk.net/
+Visit us on IRC at: irc.vibetalk.net #VibeDevelopers

@@ -1,0 +1,21 @@
+DLINE [duration] <ip> :[reason] [| oper reason]
+
+Adds a DLINE to the database which will deny any
+connections from the IP address. A banned client 
+will receive a message saying they are banned with
+the specified reason.
+
+Duration is optional, and is in minutes. If specified,
+the DLINE will not be saved in the database.
+
+If an oper reason is added (the pipe must be specified
+to seperate the fields) this will be added into the
+database but will not be shown to the user when they
+are given the reason.
+
+DLINE [duration] <ip> ON <irc.server> :[reason] [| oper reason]
+
+Will DLINE the user on matching irc.servers that accept a
+remote DLINE. irc.server can contain wildcards.
+
+- Requires Oper Priv: oper:kline
