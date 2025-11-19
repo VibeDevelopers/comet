@@ -88,6 +88,7 @@ extern unsigned int CAP_ENCAP;			/* supports ENCAP */
 extern unsigned int CAP_TS6;			/* supports TS6 or above */
 extern unsigned int CAP_SERVICE;		/* supports services */
 extern unsigned int CAP_RSFNC;			/* rserv FNC */
+extern unsigned int CAP_RSFNCF;			/* rserv FNC (forced) */
 extern unsigned int CAP_SAVE;			/* supports SAVE (nick collision FNC) */
 extern unsigned int CAP_EUID;			/* supports EUID (ext UID + nonencap CHGHOST) */
 extern unsigned int CAP_EOPMOD;			/* supports EOPMOD (ext +z + ext topic) */
