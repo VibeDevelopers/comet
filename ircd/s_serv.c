@@ -89,6 +89,7 @@ unsigned int CAP_BAN;
 unsigned int CAP_MLOCK;
 unsigned int CAP_EBMASK;
 unsigned int CAP_STAG;
+unsigned int CAP_HOPS;
 
 unsigned int CLICAP_MULTI_PREFIX;
 unsigned int CLICAP_ACCOUNT_NOTIFY;
